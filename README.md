@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/firoj-paudel-17a66724b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="firoj paudel" height="30" width="40" /></a>
-<a href="https://www.instagram.com/firojpaudel/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AInstagram.svg&psig=AOvVaw0p5pGDTK_VozSx4eb12Cxm&ust=1698071369556000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPCqu_juiYIDFQAAAAAdAAAAABAE" alt="firoj paudel" height="30" width="40" /></a>
+<a href="https://www.instagram.com/firojpaudel/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" alt="firoj paudel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
