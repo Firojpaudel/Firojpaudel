@@ -12,7 +12,7 @@
 </p>
 <h3 align="left">Love anime? <i>Let's connect through Anilist</i></h3>
 <p align="left">
-<a href="https://anilist.co/user/BeardoSama" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/AniList_logo.svg/512px-AniList_logo.svg.png" alt="firoj paudel" height="30" width="40" /></a>
+<a href="https://anilist.co/user/BeardoSama" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/AniList_logo.svg/512px-AniList_logo.svg.png" alt="firoj paudel" height="50" width="40" /></a>
 
 </p>
 
