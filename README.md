@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Firojpaudel&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=20" height="175" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Firojpaudel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=true&border_radius=15" height="175" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Firojpaudel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=merko&hide_border=true&border_radius=15" height="175" alt="languages graph"  />
 </div>
 
 ###
