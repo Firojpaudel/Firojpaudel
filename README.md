@@ -66,6 +66,7 @@
     <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=6F4E37&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
   </a>
 </div>
+<br><br>
 <div align="center">
   <a href="https://www.kaggle.com/firojpaudel" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" height="25" alt="kaggle logo"/>
