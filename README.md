@@ -11,7 +11,7 @@
 
 <h2 align="center"></h2>
 
-<img align="right" height="150" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"  />
+<img align="right" height="120" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"  />
 
 ###
 
@@ -69,6 +69,7 @@
   <a href="https://www.kaggle.com/firojpaudel" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" height="25" alt="kaggle logo"/>
   </a>
+  
 </div>
 
 ###
