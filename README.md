@@ -9,7 +9,7 @@
 
 ###
 
-<h2 align="center"></h2>
+<br clear="both">
 
 <img align="right" height="120" src="https://images.axios.com/tuUDMAGKVdkt5bYVwR0jUgDemNA=/277x0:997x720/1080x1080/2023/01/09/1673297110380.gif"  />
 
