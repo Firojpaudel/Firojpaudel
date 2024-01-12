@@ -1,5 +1,4 @@
-<h2 align="center">Hey 👋! It's me Firoj.</h2>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4999&pause=150&color=ABCE00&center=true&random=false&width=435&lines=Hello+There!+%F0%9F%91%8B;I'm+Firoj)](https://git.io/typing-svg)
 ###
 
 <div align="center">
