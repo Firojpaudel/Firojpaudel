@@ -81,6 +81,5 @@
 <img src="https://raw.githubusercontent.com/Firojpaudel/Firojpaudel/output/snake.svg" alt="Snake animation" />
 
 ###
-```
 
 
