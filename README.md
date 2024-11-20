@@ -91,6 +91,15 @@
 
 <img src="https://raw.githubusercontent.com/Firojpaudel/Firojpaudel/output/snake.svg" alt="Snake animation" />
 
+***
 ###
+<div align="center">
+  <a href="https://open.spotify.com/user/r6rbofs54nvrvskepjje2q1h0?si=d825ea9fdb934505">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=r6rbofs54nvrvskepjje2q1h0&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+***
 
 
