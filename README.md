@@ -10,7 +10,7 @@
 
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-sigma-two.vercel.app?user=Firojpaudel&theme=merko&hide_border=true&card_height=175" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats-sigma-two.vercel.app?user=Firojpaudel&theme=merko&hide_border=true&card_height=175" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Firojpaudel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=merko&hide_border=true&border_radius=15" height="175" alt="languages graph"  />
 </div>
 
