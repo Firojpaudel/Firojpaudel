@@ -42,8 +42,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo"  />
   </a>
   <img width="12" />
-  <a href = "https://docs.flutter.dev/" target= "_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" height="40" alt="flutter logo"  />
+  <a href = "https://docs.nvidia.com/cuda/cuda-c-programming-guide/" target= "_blank">
+    <img src="https://www.svgrepo.com/show/373541/cuda.svg" height="40" alt="CUDA logo"  />
   </a>
   <img width="12" />
   <a href = "https://wordpress.org/documentation/" target= "_blank">
