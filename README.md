@@ -132,5 +132,12 @@
 
 ###
 ***
-
+<h3 align="left">Achievements & Rankings:</h3>
+<div align="center">
+  <a href="https://user-badge.committers.top/nepal/Firojpaudel">
+    <img src="https://user-badge.committers.top/nepal/Firojpaudel.svg" alt="Committers Top Badge" />
+  </a>
+</div>
+***
+###
 
