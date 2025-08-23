@@ -36,7 +36,7 @@
   </a>
   <img width="12" />
   <a href = "https://devdocs.io/c/" target= "_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40" alt="c logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="40" alt="c logo"  />
   </a>
   <img width="12" />
   <a href = "https://devdocs.io/cpp/" target= "_blank">
