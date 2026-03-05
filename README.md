@@ -6,14 +6,14 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats-sigma-two.vercel.app?user=Firojpaudel&theme=merko&hide_border=true&card_height=175&exclude_days=Sat" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Firojpaudel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=merko&hide_border=true&border_radius=15" height="175" alt="languages graph"  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Firojpaudel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=merko&hide_border=true&border_radius=15" height="175" alt="languages graph"  /> -->
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://user-badge.committers.top/nepal/Firojpaudel">
     <img src="https://user-badge.committers.top/nepal/Firojpaudel.svg" alt="Committers Top Badge" height="30"/>
   </a>
-</div>
+</div> -->
 
 ###
 ***
