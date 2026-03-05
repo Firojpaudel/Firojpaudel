@@ -51,9 +51,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" alt="wordpress logo"  />
   </a>
   <img width="12" />
-  <a href = "https://help.ubuntu.com/" target= "_blank">
+  <!-- <a href = "https://help.ubuntu.com/" target= "_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/1024px-UbuntuCoF.svg.png" height="40" alt="ubuntu logo"  />
-  </a>
+  </a> -->
   <img width="12" />
   <a href = "https://www.r-project.org/other-docs.html" target= "_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
