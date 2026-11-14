@@ -1,22 +1,19 @@
 [
   {
-    "type": "rainbow",
+    "type": "normal",
     "fileName": "firoj-dark.svg",
-    "backgroundColor": "#0d1117",
+    "backgroundColor": "transparent",
     "foregroundColor": "#e6edf3",
     "strongColor": "#EDFF37",
     "weakColor": "#7d8590",
-    "radarColor": "#EDFF37",
+    "radarColor": "#ABD200",
     "growingAnimation": true,
-    "saturation": "65%",
-    "contribLightness": ["12%", "30%", "40%", "50%", "60%"],
-    "duration": "10s",
-    "hueRatio": -7
+    "contribColors": ["#161b22", "#3a4d00", "#6b8f00", "#abd200", "#edff37"]
   },
   {
     "type": "normal",
     "fileName": "firoj-dark-lime.svg",
-    "backgroundColor": "#0d1117",
+    "backgroundColor": "transparent",
     "foregroundColor": "#e6edf3",
     "strongColor": "#EDFF37",
     "weakColor": "#7d8590",
@@ -27,7 +24,7 @@
   {
     "type": "normal",
     "fileName": "firoj-light.svg",
-    "backgroundColor": "#ffffff",
+    "backgroundColor": "transparent",
     "foregroundColor": "#1f2328",
     "strongColor": "#4d7c0f",
     "weakColor": "#656d76",
