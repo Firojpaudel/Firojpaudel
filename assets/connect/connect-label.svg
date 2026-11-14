@@ -23,6 +23,11 @@
         letter-spacing: 2.5px;
         text-anchor: middle;
       }
+
+      @media (prefers-color-scheme: light) {
+        .title { fill: #1a7f37; }
+        .sub { fill: #57606a; }
+      }
     </style>
   </defs>
   <text x="90" y="38" class="title">CONNECT</text>

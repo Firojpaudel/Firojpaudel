@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&pause=1000&color=EDFF37&center=true&vCenter=true&width=438&height=52&lines=Hello+there!;I'm+Firoj." alt="Hello there! I'm Firoj." />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Righteous&size=35&pause=1000&color=EDFF37&center=true&vCenter=true&width=438&height=52&lines=Hello+there!;I'm+Firoj." />
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&pause=1000&color=1A7F37&center=true&vCenter=true&width=438&height=52&lines=Hello+there!;I'm+Firoj." alt="Hello there! I'm Firoj." />
+  </picture>
 </div>
 
 <br/>
@@ -12,7 +15,7 @@
     <td align="center" valign="middle" style="border: none;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-sigma-two.vercel.app?user=Firojpaudel&theme=merko&hide_border=true&card_height=175&exclude_days=Sat" />
-        <img src="https://github-readme-streak-stats-sigma-two.vercel.app?user=Firojpaudel&theme=default&hide_border=true&card_height=175&exclude_days=Sat" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats-sigma-two.vercel.app?user=Firojpaudel&theme=default&ring=1a7f37&fire=1a7f37&currStreakNum=1a7f37&sideNums=24292f&dates=57606a&hide_border=true&card_height=175&exclude_days=Sat" alt="GitHub Streak" />
       </picture>
     </td>
   </tr>
@@ -32,7 +35,10 @@
 <table align="center" style="border: none; background: transparent;">
   <tr style="border: none; background: transparent;">
     <td align="center" valign="middle" style="border: none; padding-right: 32px;">
-      <img src="./assets/connect/connect-label.svg" height="56" alt="Connect" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/connect/connect-label.svg" />
+        <img src="./assets/connect/connect-label-light.svg" height="56" alt="Connect" />
+      </picture>
     </td>
     <td align="center" valign="middle" style="border: none; border-left: 1px dashed #30363d; padding-left: 32px;">
       <p align="center" style="margin: 0 0 12px 0;">
