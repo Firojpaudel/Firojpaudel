@@ -19,6 +19,15 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: conf/profile-3d.json
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Patch SVGs with custom tech dock
+        run: python scripts/patch_profile_3d.py
+
       - name: Commit & Push
         run: |
           git config user.name github-actions
