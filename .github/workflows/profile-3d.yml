@@ -33,6 +33,8 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          if git commit -m "generated"; then
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "chore: update 3d contribution profile [skip ci]"
+            git pull --rebase origin main || true
             git push
           fi
